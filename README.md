@@ -1,10 +1,7 @@
-# SV_Algorithm
+# Summer vaction Algorithm practice
 
-## How to use Git
+## All Problem is come from Programmers 
+### https://programmers.co.kr/learn/courses/30/lessons/42746
 
-## Data Structure
-
-	1. Array
-	2. Vector
-	3. List
-	4. Map
+## Lecturer: น้ม๖ศฦ
+### [Github]( https://github.com/zoops)
