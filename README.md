@@ -5,3 +5,4 @@
 
 ## Lecturer: 백지훈
 ### [Github]( https://github.com/zoops)
+### Data- 7/3 ~ 7/12
